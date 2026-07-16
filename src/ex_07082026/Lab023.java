@@ -13,6 +13,9 @@ public class Lab023 {
         String str = "Sumed"; //%s
 
         System.out.printf("This is byte -> %d", b);
+        System.out.println();
+        int n = 1001;
+        System.out.println(n);
 
     }
 }
